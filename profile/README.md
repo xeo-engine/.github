@@ -1,10 +1,18 @@
-# xeo-engine
+# XEO Engine
 
-This namespace is reserved for the XEO and GenXeo engine ecosystem.
+This namespace is reserved by IndexMesh for the XEO Engine and GenXEO engine ecosystem.
 
-Primary development currently happens under IndexMesh:
+The active GenXEO engine work currently happens in `indexmesh/ai-genxeo`, the SEO/AEO analysis service for website crawling, schema extraction, technical discoverability checks, AEO readiness analysis, and Index Mesh Score automation.
 
-- [indexmesh/xeo-engine](https://github.com/indexmesh/xeo-engine)
-- [indexmesh/platform](https://github.com/indexmesh/platform)
+## Current Status
+
+This organization is a reserved namespace. Active development currently happens under the primary IndexMesh organization.
+
+## Primary Links
+
+- [IndexMesh organization](https://github.com/indexmesh)
+- [Active GenXEO engine repo](https://github.com/indexmesh/ai-genxeo)
+- [IndexMesh docs](https://github.com/indexmesh/docs)
+- [IndexMesh platform](https://github.com/indexmesh/platform)
 
 Built by [Xavier Emerson](https://github.com/agentx4u).
